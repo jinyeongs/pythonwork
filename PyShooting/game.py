@@ -1,3 +1,5 @@
+# 테스트입니다.
+
 import pygame
 import random
 from time import sleep

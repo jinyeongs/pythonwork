@@ -17,64 +17,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f89fabe-739a-421d-9b5c-920e7ebbea31" name="Default Changelist" comment="dd">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonwork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/NanumGothic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/cat_scream.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/explosion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/explosion01.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/explosion02.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/explosion03.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/explosion04.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/fighter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/fighter1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/fox_scream.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/gameover.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/missile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/missile.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/music.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/n1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/n2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/n3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/rock30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyShooting/zombie_scream.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyShooting/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyShooting/game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -172,6 +116,14 @@
       <option name="presentableId" value="Default" />
       <updated>1606986131678</updated>
     </task>
+    <task id="LOCAL-00001" summary="dd">
+      <created>1607049832319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607049832319</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +155,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="dd" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="695" y="343" key="#Notifications" timestamp="1607050434838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="695" y="343" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1607050434838" />
     <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607048682657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -215,46 +171,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607043023188" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607049535591">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607050067313">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607049535591" />
-    <state x="833" y="417" width="254" height="280" key="Github.ShareDialog" timestamp="1607049733565">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607050067313" />
+    <state x="781" y="421" key="Github.CreateGistDialog" timestamp="1607050279774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="833" y="417" width="254" height="280" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607049733565" />
+    <state x="781" y="421" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607050279774" />
+    <state x="833" y="417" width="254" height="280" key="Github.ShareDialog" timestamp="1607050397174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="417" width="254" height="280" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607050397174" />
     <state x="816" y="221" key="Github.UntrackedFilesDialog" timestamp="1607048021816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="816" y="221" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607048021816" />
-    <state width="1899" height="274" key="GridCell.Tab.0.bottom" timestamp="1607049376766">
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom" timestamp="1607050431190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607049376766" />
-    <state width="1899" height="274" key="GridCell.Tab.0.center" timestamp="1607049376766">
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607050431190" />
+    <state width="1899" height="274" key="GridCell.Tab.0.center" timestamp="1607050431190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607049376766" />
-    <state width="1899" height="274" key="GridCell.Tab.0.left" timestamp="1607049376766">
+    <state width="1899" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607050431190" />
+    <state width="1899" height="274" key="GridCell.Tab.0.left" timestamp="1607050431190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607049376766" />
-    <state width="1899" height="274" key="GridCell.Tab.0.right" timestamp="1607049376766">
+    <state width="1899" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607050431190" />
+    <state width="1899" height="274" key="GridCell.Tab.0.right" timestamp="1607050431190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607049376766" />
+    <state width="1899" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607050431190" />
     <state x="806" y="221" key="RollbackChangesDialog" timestamp="1607049795807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607049795807" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1606986231342">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1607050203920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606986231342" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607049443745">
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607050203920" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607050147316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607049443745" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607050147316" />
     <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607049081809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
