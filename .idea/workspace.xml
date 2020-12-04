@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f89fabe-739a-421d-9b5c-920e7ebbea31" name="Default Changelist" comment="dd">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonwork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/NanumGothic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/cat_scream.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/explosion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/explosion01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/explosion02.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/explosion03.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/explosion04.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/fighter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/fighter1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/fox_scream.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/gameover.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/missile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/missile.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/music.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/n1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/n2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/n3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/rock30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyShooting/zombie_scream.wav" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1l8kVd9K4G9CvzKUxIw7fLz1iCy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\pythonwork\PyShooting" />
+      <recent name="C:\pythonwork36" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pythonwork36\PyShooting" />
+      <recent name="C:\pythonwork36" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.game (1)">
+    <configuration name="game (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonwork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyShooting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyShooting/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonwork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\pythonwork36\PyShooting\game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.game (1)" />
+        <item itemvalue="Python.game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f89fabe-739a-421d-9b5c-920e7ebbea31" name="Default Changelist" comment="" />
+      <created>1606986131678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606986131678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dd" />
+    <option name="LAST_COMMIT_MESSAGE" value="dd" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607048682657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607048682657" />
+    <state x="710" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606994355117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606994355117" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607043023188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607043023188" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607049535591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607049535591" />
+    <state x="833" y="417" width="254" height="280" key="Github.ShareDialog" timestamp="1607049733565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="417" width="254" height="280" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607049733565" />
+    <state x="816" y="221" key="Github.UntrackedFilesDialog" timestamp="1607048021816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="816" y="221" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607048021816" />
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom" timestamp="1607049376766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607049376766" />
+    <state width="1899" height="274" key="GridCell.Tab.0.center" timestamp="1607049376766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607049376766" />
+    <state width="1899" height="274" key="GridCell.Tab.0.left" timestamp="1607049376766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607049376766" />
+    <state width="1899" height="274" key="GridCell.Tab.0.right" timestamp="1607049376766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607049376766" />
+    <state x="806" y="221" key="RollbackChangesDialog" timestamp="1607049795807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607049795807" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1606986231342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606986231342" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607049443745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607049443745" />
+    <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607049081809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607049081809" />
+    <state x="760" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607049705837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="760" y="419" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607049705837" />
+    <state x="753" y="203" key="svn.repositoryBrowser" timestamp="1607047168494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="203" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1607047168494" />
+  </component>
+</project>
