@@ -1,7 +1,9 @@
-
+########## 라이브러리 import ##########
 import pygame
 import random
 from time import sleep
+
+########## 전역변수,클래스 및 설정 ##########
 
 #나비 클래스
 class Butterfly :
@@ -17,18 +19,15 @@ class Butterfly :
         self.image = images #나비가 변할 이미지를 저장
         self.sounds = sounds #나비가 미사일에 맞았을 때 바뀔 사운드를 저장
 
-
-
 BLACK = (0, 0, 0) #검은색 rgb값
 padWidth = 480 #게임판 너비
 padHeight = 640 #게임판 높이
-
 pygame.init()
 gamePad = pygame.display.set_mode((padWidth, padHeight))
-pygame.display.set_caption('PyShooting')
+pygame.display.set_caption('PyShooting : Choi Jinyeong(최진영)')
 background = pygame.image.load('background.png') #게임판(배경)의 이미지를 파일로 부터 불러오기
-fighter =  pygame.image.load('fighter.png')
-missile = pygame.image.load('missile.png')
+fighter =  pygame.image.load('fighter.png') # 내 얼굴사진으로 대체
+missile = pygame.image.load('missile.png')  # 미사일
 explosion = pygame.image.load('explosion.png')
 butterfly_red = pygame.image.load('n1.png')
 butterfly_yellow= pygame.image.load('n2.png')
@@ -50,42 +49,6 @@ rockImage = ['rock01.png', 'rock02.png', 'rock03.png', 'rock04.png', 'rock05.png
              'rock21.png', 'rock22.png', 'rock23.png', 'rock24.png', 'rock25.png',
              'rock26.png', 'rock27.png', 'rock28.png', 'rock29.png', 'rock30.png']
 explosionSound = ['explosion01.wav', 'explosion02.wav', 'explosion03.wav', 'explosion04.wav']
-
-def drawObject(obj, x, y): # 오브젝트를 게임판에 그려주는 함수
-    global gamePad
-    gamePad.blit(obj, (x, y))
-
-def writeScore(count): # 게임판에 텍스트(글자)를 그려 준다
-    global gamePad
-    font = pygame.font.Font('NanumGothic.ttf', 20)
-    text = font.render('파괴한 수: ' + str(count), True, (255, 255, 255))
-    gamePad.blit(text, (10, 0))
-
-def writePassed(count): # 놓친 운석 수를 게임판에 그려준다
-    global gamePad
-    font = pygame.font.Font('NanumGothic.ttf', 20)
-    text = font.render('놓친 수: ' + str(count), True, (255, 0, 0))
-    gamePad.blit(text, (340, 0))
-
-def writeMessage(text): # 전투기 파괴 또는 운석을 놓쳐서 게임이 종료될 경우 메시지 출력
-    textfont = pygame.font.Font('NanumGothic.ttf', 80)
-    text = textfont.render(text, True, (255, 0, 0))
-    textpos = text.get_rect()
-    textpos.center = (padWidth/2, padHeight/2)
-    gamePad.blit(text, textpos)
-    pygame.display.update()
-    pygame.mixer.music.stop()
-    gameOverSound.play()
-    sleep(2)
-    pygame.mixer.music.play(-1)
-
-def crash(): #전투기 파괴 시키는 함수
-    global gamePad
-    writeMessage('전투기 파괴!')
-
-def gameOver(): #게임을 종료 시키는 함수
-    global gamePad
-    writeMessage('게임 오버!')
 
 fighterSize = fighter.get_rect().size
 fighterWidth = fighterSize[0]
@@ -123,6 +86,45 @@ shotCount = 0
 rockPassed = 0
 bfTime=0 #나비가 최근 생성된 시간
 
+########## 함수 선언부 ##########
+def drawObject(obj, x, y): # 오브젝트를 게임판에 그려주는 함수
+    global gamePad
+    gamePad.blit(obj, (x, y))
+
+def writeScore(count): # 게임판에 텍스트(글자)를 그려 준다
+    global gamePad
+    font = pygame.font.Font('NanumGothic.ttf', 20)
+    text = font.render('파괴한 수: ' + str(count), True, (255, 255, 255))
+    gamePad.blit(text, (10, 0))
+
+def writePassed(count): # 놓친 운석 수를 게임판에 그려준다
+    global gamePad
+    font = pygame.font.Font('NanumGothic.ttf', 20)
+    text = font.render('놓친 수: ' + str(count), True, (255, 0, 0))
+    gamePad.blit(text, (340, 0))
+
+def writeMessage(text): # 전투기 파괴 또는 운석을 놓쳐서 게임이 종료될 경우 메시지 출력
+    textfont = pygame.font.Font('NanumGothic.ttf', 80)
+    text = textfont.render(text, True, (255, 0, 0))
+    textpos = text.get_rect()
+    textpos.center = (padWidth/2, padHeight/2)
+    gamePad.blit(text, textpos)
+    pygame.display.update()
+    pygame.mixer.music.stop()
+    gameOverSound.play()
+    sleep(2)
+    pygame.mixer.music.play(-1)
+
+def crash(): #전투기 파괴 시키는 함수
+    global gamePad
+    writeMessage('전투기 파괴!')
+
+def gameOver(): #게임을 종료 시키는 함수
+    global gamePad
+    writeMessage('게임 오버!')
+
+
+########## 메인 구동부 ##########
 while True:
     #gamePad.fill(BLACK)
     drawObject(background, 0, 0)
